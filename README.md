@@ -67,6 +67,9 @@
 1. [Trapezoidal vs Gauss quadrature for periodic function](http://nbviewer.ipython.org/github/redwankarimsony/Numerical-Analysis-Codes/blob/master/integration/periodic1.ipynb)
 1. [Gauss-Laguerre quadrature](https://github.com/redwankarimsony/Numerical-Analysis-Codes/blob/master/integration/laguerre_gauss.py)
 1. [Adaptive Simpson quadrature](https://github.com/redwankarimsony/Numerical-Analysis-Codes/blob/master/integration/adaptive_simpson.py)
+1. [Multi-Segment Simpsons 1/3 Rule](http://nbviewer.ipython.org/github/redwankarimsony/Numerical-Analysis-Codes/blob/master/integration/Multi_segment_Simpsons_1_3_Rule.ipynb)
+
+
 
 ## Solving ODE
 
